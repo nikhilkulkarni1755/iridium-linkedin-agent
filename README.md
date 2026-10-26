@@ -1,6 +1,6 @@
 # Iridium - LinkedIn MCP for AI Agents
 
-[![Iridium on Peerlist](https://peerlist.io/api/v1/projects/embed/PRJH7B8E7Q89LRMMJFR8BAQPMMJ7J9?showUpvote=true&theme=dark)](https://peerlist.io/macandpc/project/iridium--linkedin-for-ai-agents)
+[![Iridium on Peerlist](https://peerlist.io/api/v1/projects/embed/PRJH7B8E7Q89LRMMJFR8BAQPMMJ7J9?showUpvote=true&theme=dark)](https://peerlist.io/macandpc/project/iridium--linkedin-for-ai-agents) [![smithery badge](https://smithery.ai/badge/iridiumhqmcp/iridium)](https://smithery.ai/servers/iridiumhqmcp/iridium)
 
 MCP server connecting your AI agents (Claude, Hermes, ChatGPT, and any MCP client) to your LinkedIn context.
 
